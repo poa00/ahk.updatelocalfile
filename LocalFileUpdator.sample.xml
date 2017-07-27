@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Items>
+    <Item>
+        <URL>https://bitbucket.org/michaeluno/autohotkey-class-oxmlmanipulator/raw/master/oXMLManipulator.ahk</URL><!-- URL of the remote file. -->
+        <LocalPath>.\Lib\oXMLManipulator.ahk</LocalPath><!-- Local path of the target file. -->
+        <Version>
+            <InComment>1</InComment> <!-- (Optional) Whether the version is in a comment section, /* */. -->
+        </Version>
+        <ItemList></ItemList><!-- (Optional) The location of the list for additional files for this paritular item. -->
+        <Item><!-- (Optional) Nested item will be replaced when the top-level item's version is greater than the local's. In that case, this nested item's version will not be checked. -->
+            <URL></URL><!-- URL of the remote file. -->
+            <Path></Path><!-- Local path of the target file. -->
+        </Item>        
+    </Item>
+    <Item>
+        <URL></URL><!-- URL of the remote file. -->
+        <Path></Path><!-- Local path of the target file. -->
+        <ItemList></ItemList><!-- (Optional) The location of the list for additional files for this paritular item. -->
+        <Item><!-- (Optional) Nested item will be replaced when the top-level item's version is greater than the local's. In that case, this nested item's version will not be checked. -->
+            <URL></URL><!-- URL of the remote file. -->
+            <Path></Path><!-- Local path of the target file. -->
+        </Item>        
+    </Item>    
+    <ItemList></ItemList><!-- (Optional) The location of the list for additional files for this paritular process. -->
+</Items>
